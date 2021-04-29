@@ -21,6 +21,7 @@ environment:
   sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
+  beamer: ^0.12.4
   flutter:
     sdk: flutter
 
